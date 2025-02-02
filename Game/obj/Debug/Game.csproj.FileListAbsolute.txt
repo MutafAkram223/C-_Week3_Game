@@ -1,0 +1,10 @@
+D:\OOPS Conversions\Game\Game\bin\Debug\Game.exe.config
+D:\OOPS Conversions\Game\Game\bin\Debug\Game.exe
+D:\OOPS Conversions\Game\Game\bin\Debug\Game.pdb
+D:\OOPS Conversions\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\OOPS Conversions\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\OOPS Conversions\Game\Game\obj\Debug\Game.exe
+D:\OOPS Conversions\Game\Game\obj\Debug\Game.pdb
+D:\OOPS Conversions\Game\Game\bin\Debug\EZInput.dll
+D:\OOPS Conversions\Game\Game\bin\Debug\EZInput.xml
+D:\OOPS Conversions\Game\Game\obj\Debug\Game.csproj.Up2Date
